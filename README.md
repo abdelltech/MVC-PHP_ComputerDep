@@ -9,7 +9,7 @@ Application CRUD in MVC PHP : Computer Department Managment
 
 # Conception
 
-![conception](conception.png)
+![conception](conception.jpg)
 
 # Configuration
 
