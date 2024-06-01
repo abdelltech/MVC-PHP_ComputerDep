@@ -1,5 +1,4 @@
-#  Computer department management
-Application CRUD in MVC PHP : Computer Department Managment
+#  IT department management
 
 - Application CRUD
 - Foundation Framework
