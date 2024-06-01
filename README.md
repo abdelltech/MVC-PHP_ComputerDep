@@ -1,6 +1,6 @@
 #  IT department management
 
-- Application CRUD
+- Application PHP CRUD
 - Foundation Framework
 - MVC Architecture
 - PDO (MySQL Connect)
