@@ -1,4 +1,4 @@
-#  IT department management
+#  department of computer sciecne
 
 - Application PHP CRUD
 - Foundation Framework
