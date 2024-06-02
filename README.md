@@ -1,4 +1,4 @@
-#  department of computer sciecne
+#  Department of computer science
 
 - Application PHP CRUD
 - Foundation Framework
